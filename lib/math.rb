@@ -21,5 +21,5 @@ end
 
 def square_root(num)
   square_root = num ** 2
-  return math.sqrt(num)
+  return square_root(num)
 end
